@@ -1,3 +1,9 @@
 Welcome to AWS!
 
 Welcome to Devops!
+
+welcome to GIT
+welcome to maven
+welcome to Jenkins
+welcome to docker
+welcome to kubernetes
